@@ -1,4 +1,4 @@
-### CS 499 ePortfolio
+# CS 499 ePortfolio
 
 ### Introduction
 
@@ -12,7 +12,7 @@ The computer science program at SNHU (Southern New Hampshire University) has sho
 
 The first artifact selected was a static web project that I was asked to complete for a friend. This was one of the first projects that I was asked to complete for an outside party. I wanted to include this to showcase my skills in web development, which I really enjoy. The second artifact selected for this course was a mobile application that I created for a course. Web development gave me the control that I enjoy, but mobile application development was on another level. I used Java in the creation of this application. This application was created to house user login information and event information into two separate databases and then display that information on a separate screen. The user would then be able to update that event information after successfully logging into the application. This project provides an excellent example and takes user stories and requirements to implement them into creating a project. The last artifact that I selected was a bid application coded using C++. This project works by allowing a user to search for a bid. It also will bring results in a sorted order. The application also allows the user to sort by the amount. The application uses a binary search tree to perform the steps to find the bid based upon the amount or the bid id. This last project was selected because I wanted to be versatile in the languages that I have used during my program. C++ to go along with Java, and HTML/CSS/JavaScript makes for a solid foundation for coding different projects that are made in this day. 
 
-### Portfolio Projects
+# Portfolio Projects
 
 ## Ahmaud Arts
 
