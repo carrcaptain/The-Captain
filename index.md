@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### CS 499 ePortfolio
 
-You can use the [editor on GitHub](https://github.com/carrcaptain/The-Captain/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was never really good at coding and had no interest in it while in high school. The funny thing is that my father knows how to do just about everything with a computer. What he has been able to do was self-taught. I have always thought highly of my father for being able to do that for himself and for his family. I was in school for mechanical engineering when I first started. After getting married, having children, and still working full time I found that there was not enough time for school since I had to be on campus for classes. I even had to work two jobs just to make ends meet when my wife was pregnant with both of your children due to health issues that came about. I decided that there needed to be a change, not just for me, but for my family and our future. I needed something flexible to where I could make more money and still be around at home if need be. After researching different careers, I landed on software engineering. I still was not a huge fan of coding, but after seeing what I could accomplish and the dividends that I could secure within the field, it definitely had my head pointed towards it. I talked to my wife about this and what challenges we may face and she was on board with it. Took the first step to register for the field and found out that the curriculum would not be that long and the terms were only 8 weeks, which was very appealing. The fundamental classes leading up to this capstone course were sometimes rigorous, but most of all expanding my viewpoint on computer science as a whole. This also opened me up to the different technology fields such as software architecture, mobile application design, and web development. I really enjoyed the little bit of web development I learned. I furthered that learning through a coding bootcamp on the side to enhance my skills in the field. My goal was to be able to find a great job, but also be able to create my own hustle on the side. I wanted to be able to teach my children about this field and to show them that their father could overcome any challenges. That way they have no excuses when they grow up themselves. I will be the second in my family to even graduate from college. I have been pushed by my own parents, wife, and friends to be this done. Now that I am finally here, I cannot believe it.
 
-### Markdown
+### SNHU Computer Science Program
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The computer science program at SNHU (Southern New Hampshire University) has shown me a multitude of different career options I had no idea existed. From the very start of the courses that I have taken, I was immersed in a constant flow of information which prompted many creative ideas on projects that I wanted to complete. In this coursework, I have studied many different programming languages centered around Java and C++ in majority. With those languages, I have taken part in many projects over program that have both tested and built upon the skills that a foundation was built upon. Aside from languages, I have learned about many engineering concepts and practices. Design principles, architecture, and security were the most important principles that I grasped to and will forever be a part of me moving forward into my career. In completing this program, I have gained insight into vulnerabilities and pitfalls of coding with the public’s concerns. Though I did not have many chances to collaborate in a team environment, my work experience has more than eclipsed any teamwork requirements for a professional position. As stated before, getting an education on other career paths within the IT field pushed me into learning outside of the classroom. During this program I took part in a web development bootcamp that taught me about HTML, CSS, and JavaScript. I also learned design principles with web development as well. The culmination of these teachings brought me to the artifacts that I selected for this course.
 
-```markdown
-Syntax highlighted code block
+### Portfolio Summary
 
-# Header 1
-## Header 2
-### Header 3
+The first artifact selected was a static web project that I was asked to complete for a friend. This was one of the first projects that I was asked to complete for an outside party. I wanted to include this to showcase my skills in web development, which I really enjoy. The second artifact selected for this course was a mobile application that I created for a course. Web development gave me the control that I enjoy, but mobile application development was on another level. I used Java in the creation of this application. This application was created to house user login information and event information into two separate databases and then display that information on a separate screen. The user would then be able to update that event information after successfully logging into the application. This project provides an excellent example and takes user stories and requirements to implement them into creating a project. The last artifact that I selected was a bid application coded using C++. This project works by allowing a user to search for a bid. It also will bring results in a sorted order. The application also allows the user to sort by the amount. The application uses a binary search tree to perform the steps to find the bid based upon the amount or the bid id. This last project was selected because I wanted to be versatile in the languages that I have used during my program. C++ to go along with Java, and HTML/CSS/JavaScript makes for a solid foundation for coding different projects that are made in this day. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carrcaptain/The-Captain/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Portfolio Links
+1. [Ahmaud Arts](https://github.com/carrcaptain/Ahmad_Arts)
+2. [Event Tracker Application](https://github.com/carrcaptain/CS-360)
+3. [Bid Search Application](https://github.com/carrcaptain/CS260/blob/main/BinarySearchTree.cpp)
